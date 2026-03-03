@@ -4,7 +4,7 @@ from typing import Dict, Any, List
 
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 from rag.config import INDEX_DIR, EMBEDDING_MODEL_NAME
 from rag.prompts import SYSTEM_PROMPT, USER_PROMPT
@@ -14,6 +14,10 @@ def load_vectorstore() -> FAISS:
     embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
     db = FAISS.load_local(str(INDEX_DIR), embeddings, allow_dangerous_deserialization=True)
     return db
+
+
+def _truncate(text: str, limit: int = 1200) -> str:
+    return text[:limit]
 
 
 def format_context(docs: List[Document]) -> str:
@@ -36,7 +40,7 @@ def format_citations(docs: List[Document]) -> str:
         cites.append(
             f"- {meta.get('source','unknown')} | page={meta.get('page', None)} | chunk_id={meta.get('chunk_id', None)}"
         )
-    # Deduplicate while preserving order
+
     seen = set()
     out = []
     for c in cites:
@@ -46,24 +50,22 @@ def format_citations(docs: List[Document]) -> str:
     return "\n".join(out)
 
 
-def answer_with_ollama(question: str, k: int = 5) -> Dict[str, Any]:
-    """
-    Uses local Ollama (recommended). Requires:
-    - Install Ollama
-    - `ollama pull llama3.1:8b` (or another model)
-    """
+def answer_with_ollama(question: str, k: int = 5, model: str = "llama3.1:8b") -> Dict[str, Any]:
     from langchain_community.chat_models import ChatOllama
-    from langchain.schema import SystemMessage, HumanMessage
+    from langchain_core.messages import SystemMessage, HumanMessage
 
     db = load_vectorstore()
 
-    # MMR reduces duplicate chunks and improves coverage
     docs = db.max_marginal_relevance_search(question, k=k, fetch_k=max(20, k * 4))
+
+    # ✅ truncate BEFORE building context
+    for d in docs:
+        d.page_content = _truncate(d.page_content, 1200)
 
     context = format_context(docs)
     citations = format_citations(docs)
 
-    llm = ChatOllama(model="llama3.1:8b", temperature=0.1)
+    llm = ChatOllama(model=model, temperature=0.1)
 
     messages = [
         SystemMessage(content=SYSTEM_PROMPT),

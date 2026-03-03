@@ -1,15 +1,14 @@
 from __future__ import annotations
 
-import os
 from pathlib import Path
 from typing import List
 
 import pandas as pd
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
+from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain.schema import Document
+from langchain_community.embeddings import HuggingFaceEmbeddings
 
 from rag.config import (
     RAW_DIR, DEMO_DIR, INDEX_DIR,
@@ -20,11 +19,9 @@ from rag.config import (
 def _load_pdf(path: Path) -> List[Document]:
     loader = PyPDFLoader(str(path))
     docs = loader.load()
-    # Add metadata
     for d in docs:
         d.metadata["source"] = path.name
         d.metadata["path"] = str(path)
-        d.metadata.setdefault("page", d.metadata.get("page", None))
         d.metadata["doc_type"] = "pdf"
     return docs
 
@@ -40,21 +37,13 @@ def _load_text(path: Path) -> List[Document]:
 
 
 def _load_csv(path: Path) -> List[Document]:
-    """
-    Convert CSV rows into compact documents for retrieval.
-    Great for transaction exports or subscriptions lists.
-    """
     df = pd.read_csv(path)
     docs: List[Document] = []
-
-    # Keep it robust if columns vary
     cols = list(df.columns)
 
     for i, row in df.iterrows():
-        # Small row-level doc (good for lookup + evidence)
         pairs = [f"{c}: {row[c]}" for c in cols if pd.notna(row[c])]
         content = "\n".join(pairs)
-
         docs.append(
             Document(
                 page_content=content,
@@ -66,7 +55,6 @@ def _load_csv(path: Path) -> List[Document]:
                 },
             )
         )
-
     return docs
 
 
@@ -79,7 +67,6 @@ def load_documents(data_dir: Path) -> List[Document]:
         if path.is_dir():
             continue
         suffix = path.suffix.lower()
-
         try:
             if suffix == ".pdf":
                 all_docs.extend(_load_pdf(path))
@@ -93,23 +80,27 @@ def load_documents(data_dir: Path) -> List[Document]:
     return all_docs
 
 
-def build_or_update_index(use_demo: bool = False) -> int:
-    data_dir = DEMO_DIR if use_demo else RAW_DIR
+def build_or_update_index(use_demo: bool = False, use_clean: bool = True) -> int:
+    from rag.config import CLEAN_DIR
+
+    if use_demo:
+        data_dir = DEMO_DIR
+    else:
+        data_dir = CLEAN_DIR if use_clean and CLEAN_DIR.exists() else RAW_DIR
+
     docs = load_documents(data_dir)
 
     if not docs:
-        raise RuntimeError(
-            f"No documents found in {data_dir}. Add PDFs/CSVs/TXTs then re-run ingest."
-        )
+        raise RuntimeError(f"No documents found in {data_dir}. Put files there and retry.")
 
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,
         separators=["\n\n", "\n", " ", ""],
     )
+
     chunks = splitter.split_documents(docs)
 
-    # Add stable chunk IDs
     for idx, d in enumerate(chunks):
         d.metadata["chunk_id"] = idx
 
@@ -117,7 +108,6 @@ def build_or_update_index(use_demo: bool = False) -> int:
 
     INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
-    # If index exists, load and add; else create
     if (INDEX_DIR / "index.faiss").exists():
         db = FAISS.load_local(str(INDEX_DIR), embeddings, allow_dangerous_deserialization=True)
         db.add_documents(chunks)
@@ -125,10 +115,10 @@ def build_or_update_index(use_demo: bool = False) -> int:
         db = FAISS.from_documents(chunks, embeddings)
 
     db.save_local(str(INDEX_DIR))
+
     return len(chunks)
 
 
 if __name__ == "__main__":
-    # Default: build from data/raw
     n = build_or_update_index(use_demo=False)
     print(f"✅ Indexed {n} chunks into {INDEX_DIR}")

@@ -1,0 +1,1612 @@
+Product
+Disclosure
+Statement.
+Effective 8 May 2025
+Product features and Terms and Conditions for:
+> Savings Accounts
+> Investment Accounts
+> Transaction Accounts
+> Business Accounts
+> Non-Cash Payment Facilities
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+
+This Product Disclosure Statement (PDS) is made up of:
+> this product features and terms and conditions brochure;
+> our interest rate sheet; and
+> our fees & charges brochure.
+This PDS is effective 8 May 2025.
+Previous version: 2 Dec 2024.
+Advice Warning
+This PDS provides you with information about a number of products and facilities and has been prepared without 
+taking account of your objectives, financial situation or needs. Because of this, before you acquire any of our financial 
+products, you should consider their appropriateness having regard to your objectives, financial situation and needs. 
+You should consider the contents of this PDS carefully before making any decision to acquire the product.
+Information in this PDS is subject to change from time to time and may be updated as described in this PDS.
+You should keep a copy of this PDS for future reference.
+Additional copies of this PDS or more information about any of the products or facilities to which this PDS applies, 
+may be obtained from any branch or downloaded from our website – www.humebank.com.au
+Electronic Debits & Credits
+When arranging direct debits or credits to your account, please quote:
+BSB 640 000
+followed by your 9 digit account number.
+Changes to this PDS
+We may change these terms and conditions at any time. Any change will be made in accordance with any applicable 
+legislation and industry codes. 
+Unless otherwise specified in these terms and conditions or specifically agreed between us, you consent to us giving 
+you notice in writing, or by notice in the media, or electronically. The following time periods apply:
+Change to: Notice Period
+Fees or charges 30 days before the change takes effect.
+Interest rates no later than the day the change takes effect.
+Government 
+fees or charges
+as soon as possible, but no later than 3 months after the 
+change takes effect. Unless the government itself publicises 
+the introduction or change.
+Any other changes when we notify you (subject to any applicable laws or Industry 
+Codes)
+
+Contents 
+Savings, Transaction and Investment Accounts 
+> Business Accounts _____________________________________________________________________________ 3
+> Savings and Transactions Accounts _____________________________________________________________ 1-2
+Specific Account Terms and Conditions 
+> Farm Management Deposit _____________________________________________________________________ 5
+> Flexible Loan Offset ____________________________________________________________________________ 6
+> Term Deposit _______________________________________________________________________________ 7-8
+General Terms and Conditions 
+Account Opening and Operation 9
+Additional Cardholders 14
+Authorised User 9
+BPAY 10
+BPA Y View 13
+Card access to your account 13
+Change of Name or Address 15
+Changes in Circumstances 15
+Disputes 14
+Cheques 15
+Clearance of Funds 17
+Closing your Account 17
+Customer Owned Banking Code of Practice 18
+Combining Accounts 18
+Copies of Documents 18
+Customer Complaints, feedback and compliments 33
+Death of a Customer 18
+Deposits and Withdrawals 19
+Digital Wallet 14
+Direct Debits and Periodical Payments 19
+Electronic Communication 20
+Electronic Transactions 20
+Financial Claims Scheme 24
+Foreign Cheque Clearance 24
+Freezing Account 24
+Inactive Accounts 24
+Interest Rates 25
+Joint Accounts 25
+
+Online Banking 26 
+Osko 27
+Overdrawn Accounts 28
+Passbooks 28
+PayID 28
+PayTo 28
+Power of Attorney 28
+Privacy 29
+Regular Payments from your Debit or Credit Card 29
+Statements 29
+Sweep Facility 31
+Australian Tax File Number (TFN) and Foreign Tax Residency 31
+Third Party Withdrawals 31
+Unacceptable Conduct 31
+Withdrawal and Transfer Limits 32
+Meaning of Words
+In this PDS:
+> access method – means a method which we provide to you to give us authority to act on instructions when 
+using electronic equipment to debit or credit an account which has electronic payment facilities.
+> banking business day – in relation to BPA Y, is any day on which banks in Melbourne or Sydney are able to effect 
+settlement through the Reserve Bank of Australia.
+> business day – means any day from 9a.m. to 5p.m. Monday to Friday on which Hume Bank is open for business 
+in at least one of its branches.
+> Card scheme – means the Visa card scheme operated and maintained by Visa International Service Association 
+ABN 70 007 507 511. 
+> Dispute – the Visa card operating rules for transferring the amount of a disputed card transaction from the 
+merchant’s financial institution to your card account.
+> Security code – means a password or code that may be required to authenticate a transaction or a user. A 
+security code may consist of numbers, letters, a combination of both or a phrase. Examples include:
+- a personal identification number (PIN);
+- online banking password;
+- an SMS Authentication Code;
+- Osko Payments smart address (PayID).
+> SMS authentication – means our method of two factor authentication where a security code is sent to your 
+mobile number nominated in the registration process, which is then used to authenticate your instructions to 
+us over the internet.
+> you and your means the account holder, being the person or persons in whose name the account is established 
+and maintained.
+> we, us, our or Hume Bank – means Hume Bank Limited.
+
+1 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Savings and Transaction Accounts 
+Key Features 
+and Benefits
+Essential 
+Account iSave Reward Saver Retirement 
+Account Clancy Koala Flexible 
+Loan Offset
+Purpose personal personal personal personal personal personal
+Account restrictions N/A see page 4 N/A see page 4 see page 4 see page 4
+Statements issued twice yearly twice 
+yearly twice yearly twice yearly passbook twice 
+yearly
+Interest calculated/paid no interest 
+paid
+daily/ 
+monthly
+daily/ 
+monthly
+daily/twice 
+yearly
+daily/ 
+monthly
+no interest 
+paid
+Bonus interest paid N/A N/A monthly~ N/A monthly~ N/A
+Access to funds:
+> at call ✓ ✓ ✓ ✓ ✓ ✓
+> digital wallet, card 
+ and ATM access ✓^ ✗ ✗ ✓ ✗ ✓
+> cheque book ✗ ✗ ✗ ✗ ✗ ✗
+> bank cheques ✓ ✓ ✓ ✓ ✓ ✓
+> BPA Y ✓ ✓ ✓ ✓ ✓ ✓
+> direct debits & PayTo ✓ ✓ ✓ ✓ ✗ ✓
+> Osko & PayID ✓ ✓ ✓ ✓ ✓ ✓
+> online banking ✓ ✓ ✓ ✓ ✓ ✓
+> periodical payments ✓ ✓ ✓ ✓ ✓ ✓
+~ Refer to Interest Rates section for Bonus Interest criteria. 
+^ Account holders 12 years and older are eligible for a Visa debit card.
+
+2 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+ 
+Community 
+Link All Purpose Professional Cash 
+Mgmt Term Deposit
+Farm 
+Management 
+Deposit
+community groups personal business or personal business 
+or personal business
+see page 4 N/A N/A see page 4 N/A
+twice yearly twice yearly quarterly passbook/statement 
+- twice yearly passbook
+daily/twice yearly daily/twice yearly daily/ 
+quarterly
+daily/monthly, annually or 
+at maturity 
+daily/monthly, annually or 
+at maturity 
+N/A N/A N/A N/A N/A
+✓ ✓ ✓ ✗ ✗
+✗ ✓^ ✗ ✗ ✗
+✗ ✗ ✗ ✗ ✗
+✓ ✓ ✓ ✗ ✗
+✓ ✓ ✓ ✗ ✗
+✓ ✓ ✓ ✗ ✗
+✓ ✓ ✓ ✗ ✗
+✓ ✓ ✓ ✓ ✓
+✓ ✓ ✓ ✗ ✗
+^ Account holders 12 years and older are eligible for a Visa debit card.
+
+3 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Business Accounts 
+Key Features and 
+Benefits
+Business 
+Account Business iSave Professional 
+Trust
+Tax 
+Manager
+Account restrictions N/A see page 4 see page 4 N/A
+Statements issued monthly twice yearly twice yearly quarterly
+Interest calculated/paid daily/quarterly daily/monthly daily/quarterly daily/quarterly
+Bonus interest paid N/A N/A N/A N/A
+Access to funds:
+> at call ✓ ✓ ✓ ✓
+> digital wallet, card & ATM 
+access ✓ ✗ ✗ ✗
+> cheque book ✗ ✗ ✗ ✗
+> bank cheques ✓ ✓ ✓ ✓
+> BPA Y ✓ ✓ ✓ ✓
+> direct debits & PayTo ✓ ✓ ✓ ✓
+> Osko & PayID ✓ ✓ ✓ ✓
+> online banking ✓ ✓ ✓ ✓
+> periodical payments ✓ ✓ ✓ ✓
+> payroll processing ✓ ✗ ✗ ✗
+Please see our interest rate sheet for the interest rates that apply to these accounts and the minimum balance 
+required to earn interest.
+
+4 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Account Restrictions
+Account
+Business iSave, iSave & 
+Online Term Deposit
+Restricted to registered iBank users and requires registration for electronic 
+statements (eStatements). No staff assisted transactions (with the exception of 
+account opening / account closing). 
+Clancy Koala The account is only available for the savings purposes of a child 11 years and 
+under.
+Community Link
+Restricted to community, sporting, cultural or recreational groups and is 
+available at our discretion. The entity must not return any profits to its 
+members. The account must always be subject to a “two to sign” authority.
+Flexible Loan Offset
+May only be used for the banking and savings purpose of an individual. This 
+account cannot be linked to a commercial or personal loan. No interest will be 
+paid on your Flexible Loan Offset account upon repayment of your linked home 
+loan account. 
+Professional Trust Restricted to eligible professional and business organisations.
+Retirement Account To open this account, you must be a recipient of an Age or Veteran’s Affairs 
+pension, or a self-funded retiree.
+Savings, Transactions and Investment Accounts - Risk and Benefits 
+The risks associated with the payment facilities attached to your account will depend in part on the way you use 
+them. Those risks, benefits and security advice are included throughout this PDS. 
+When you select a savings account, the interest rate that you receive may fall if market interest rates fall or could 
+rise if market interest rates rise. The interest you receive is guided by movements in the RBA Overnight Cash Rate, 
+with reference to applicable market rates, indicators and other variable interest rate benchmarks.
+Our term deposit accounts and farm management deposits are fixed term deposits that allow an initial deposit 
+and subsequent withdrawal. A wide range of standard terms are available up to 3 years. With these term deposits, 
+your interest rate stays the same (fixed) for the full term, so it won’t change even if interest rates go up. On the 
+other hand, you are protected from falling interest rates during the term of your investment. If you deposit funds 
+in a fixed term deposit and request to withdraw funds before the maturity date, it may affect the total interest 
+you receive. Early withdrawal requests may be subject to a 31-day notice period.
+Credit risk is common to all savings and investment products. In all cases you are reliant on our ability to meet our 
+obligations to you under the terms of the particular product you choose. Hume Bank is an authorised deposittaking institution in Australia and therefore must comply with the requirements of the Australian Prudential 
+Regulation Authority (APRA).
+You should obtain your own advice as to the suitability of these products for you.
+
+5 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Farm Management Deposit
+An account for the primary producer who wishes to take advantage of the taxation benefits provided by the Farm 
+Management Deposits Scheme
+Minimum deposit $1,000
+Maximum balance $800,000
+> Hume Bank accepts Farm Management Deposits (FMD) for a fixed amount, for a fixed term at a fixed 
+interest rate.
+> Interest rates may vary depending on the term and/or the amount of the deposit and frequency of interest 
+repayments.
+> The terms and interest rates available for amounts of deposits are disclosed in our business accounts rates. 
+The amounts, rates and terms available may be varied from time to time, however once a deposit has been 
+accepted by us, the amount, interest rate and term cannot be changed, unless agreed to by us.
+> An eligible depositor may hold multiple FMD accounts; however, the combined balance across all accounts with 
+all financial institutions, must not exceed $800,000 at any time in any income year.
+> Your rights are not transferable to another person.
+> We will not accept additional money to the principal during the unexpired term of the deposit.
+> The initial term for a new FMD is a minimum of 12 months. If you hold more than one FMD, accounts that have 
+been held for more than 12 months can be consolidated without affecting your ability to access the FMD and 
+without the transfer being treated as either a deposit or withdrawal for the purposes of the FMD legislation. 
+The new deposit date will be the deposit date of the most recent FMD account. 
+> After the initial deposit term, deposits may be renewed for periods from 1 month to 36 months.
+> Interest may be paid monthly, annually or at maturity after the initial term of 12 months. If the initial term 
+selected is longer than 12 months then interest must be paid at least every 12 months.
+> Deposit interest paid will reflect the number of days in the interest payment period.
+> Interest cannot be compounded to the deposit. It may be credited to another account in the depositor’s name 
+or paid by cheque to the depositor.
+> If applicable, Government duties will be deducted from the interest payment.
+> The depositor must be an eligible primary producer when the deposit is lodged.
+> The deposit must be made by only one person and on behalf of one person. FMDs in the name of a partnership 
+or company or in joint names are not acceptable.
+> The deposit must not be made:
+(a) by the trustee of a trust estate on behalf of a beneficiary, unless the beneficiary is presently entitled to 
+a share of the income of the trust estate and is under a legal disability; or
+(b) otherwise by a person in his or her capacity as a trustee.
+> Farm Management Deposits can not be withdrawn in the first 12 months without losing their claimed taxation 
+benefits unless the following conditions are met:
+(a) you are affected by certain natural disasters and have received assistance through an NDRRA primary 
+producer Category C measure grant
+(b) you are affected by drought, and you:
+• made your FMD in the previous financial year, and
+• have held your FMD for at least six months, and
+• can demonstrate that an area of your farming property has been affected by a rainfall deficiency for 
+six consecutive months. To be eligible, the rainfall must by within the lowest five per cent of recorded 
+rainfall for your property for that six-month period.
+
+6 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+> Farm Management Deposits must be repaid if you:
+- in the event of the depositor’s death, the account will be closed as part of the estate settlement process; or 
+- if you become bankrupt; or
+- You cease to be a primary producer for 120 days or more; or
+- You request us to electronically transfer the deposit to another financial institution that agrees to accept 
+it as a Farm Management Deposit.
+> The amount of any repayment of the deposit must be at least $1,000.00, except where the entire amount of 
+the deposit is repaid.
+> Apart from the exceptions outlined above, if you wish to withdraw from the FMD, either in whole or part, prior 
+to maturity, we may require 31 days’ notice. Repayment of the deposit within the initial minimum term will be at 
+our absolute discretion. 
+> Subject to the following, after the initial term the whole or any part of the deposit may be withdrawn at any 
+time.
+> Where you wish to withdraw all or part of your FMD prior to the maturity date, a reduced interest payment, 
+as specified on our website www.humebank.com.au will be applied to your account.
+We reserve the right to vary the interest rate adjustment at any time. No adjustment will be made where a FMD is 
+prepaid before maturity following the death of a depositor.
+If you merge multiple FMDs into a single deposit and the FMDs have not been held for at least 12 months, tax law 
+regards these deposits as having been repaid to you. The combined deposit will be treated as a new FMD and a new 
+FMD agreement will need to be entered into for the combined deposit.
+> Tax will be assessed on the deposit when it is withdrawn and will be deducted, by Hume Bank, at a rate of 20%, 
+unless:
+(a) the owner’s tax file number has not been given to Hume Bank, in which case tax will be deducted at the 
+rate of 46.5%; or
+(b) a deduction exemption certificate is granted, in which case no tax will be deducted; or
+(c) the deposit is repaid within the minimum initial term and therefore no longer qualifies as a FMD.
+Advices to Farm Management Depositors
+> A passbook will be issued confirming the deposit has been established.
+> When you open the account, you will be asked to tell us how you wish your investment to be treated on maturity. 
+Prior to maturity, we will write to you seeking confirmation of your maturity instructions; if we do not receive 
+a response, we will act on your original instructions.
+Access to funds
+> funds transfer – internal & external on maturity or payment of interest;
+> iBank and Hume Bank’s App limited to:
+> Hume Bank’s App; and
+- verifying transaction details;
+- printing statements (iBank only); and
+- verifying interest earned.
+Flexible Loan Offset
+Interest
+No interest will be paid on the balance of your Flexible Loan Offset (FLO) account or accounts; this applies even where 
+the total balance of all FLO account/accounts exceeds the balance of your linked home loan account. Instead, the 
+credit balance of your FLO account is offset against the balance outstanding on your linked home loan account. 
+Interest offset on your FLO account is calculated on your daily closing balance.
+
+7 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Linking FLO
+Your FLO account/accounts may be linked to a myBlue loan. You are unable to link multiple home loans to one FLO 
+account, but you can link multiple FLO accounts to one home loan. 
+Each account holder on any FLO account must also be a borrower on the linked home loan. 
+You may have up to eight (8) offset accounts in total. 
+Hume Bank reserves right
+We reserve the right to:
+> close the FLO account should it be used for any other purpose except that of the banking and savings purposes 
+of an individual. For example, an unacceptable purpose may include, but is not limited to, the business purposes 
+of a sole trader;
+> terminate the offset arrangement in respect of your account by giving you 30 days’ notice in writing; and 
+> change the maximum number of offset accounts you can hold with us. 
+We will notify you of any changes by giving you 30 days’ notice in writing.
+Loan Agreement
+The existence of your Flexible Loan Offset account/accounts does not, in any way, reduce or alter your obligations 
+under the terms of your loan agreement. The full monthly instalments must continue to be repaid and the amount 
+of any such instalments is not reduced by virtue of any credit balance held in your Flexible Loan Offset account/
+accounts.
+When you have repaid your loan, you may want to transfer your Flexible Loan Offset to another account type. Refer 
+to the “Savings and Transaction Accounts” section of this PDS for information about our other account types and 
+contact us if you would like to make a change.
+Taxation
+Interest which would otherwise be payable on your Flexible Loan Offset account/accounts is currently not subject 
+to income tax. The tax effects of having an offset account are subject to the policies of the Australian Taxation Office 
+which may change from time to time.
+Term Deposit
+Minimum initial deposit
+$1,000 where interest is paid annually or at maturity.
+$5,000 where interest is paid every 28 days.
+Terms available
+Standard terms are available up to 3 years; other special terms are available from time to time.
+Where interest is to be paid every 28 days, the minimum deposit period is 6 months.
+Interest
+Your interest rate will be fixed for the investment term selected at the time you make your initial deposit. It will be 
+based on the prevailing interest rates of the day. You will be advised of your interest rate at the time you open 
+your account. On renewal, your interest rate may change. At our discretion, larger Term Deposit amounts may be 
+subject to different interest rates. For more information on our current rates and terms, please visit our website.
+The interest rate may change if you withdraw your deposit (or part of it) before the end of that term.
+Interest may be:
+> credited to another Hume Bank account;
+
+8 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+> mailed to you by cheque;
+> credited to an account at another financial institution; or
+> where paid at maturity, reinvested when you renew your existing term deposit.
+Interest payment frequency:
+> for deposits up to 13 months – at maturity;
+> for deposits of 13 months or more – annually and at maturity; and
+> for regular income deposits – each 28 days.
+You need to tell us how you wish your interest to be paid at the time you open or renew your term deposit.
+Maturity
+When your term deposit matures, funds may be:
+> credited to another Hume Bank account;
+> mailed to you by cheque;
+> credited to an account at another financial institution; or
+> renewed for a nominated period.
+Your maturity instructions will be treated as standing instructions unless you tell us to change these instructions 
+prior to your Term Deposit maturity date. Additionally, if you have selected to renew your Term Deposit on maturity, 
+you have a ‘grace period’ of 7 calendar days commencing on the maturity date. You can make changes to your Term 
+Deposit during the grace period only once. During this time, you can change the amount of funds and/or term of 
+your Term Deposit. 
+If you instructed us to renew your Term Deposit on maturity, we will do this automatically. The new Term Deposit will:
+> Be subject to the interest rate for that term on the day the new term commences, which may be a lower 
+interest rate than your previous Term Deposit; and
+>Be subject to the terms and conditions in this PDS, as amended from time to time, applicable on the day the new 
+term commences.
+If we do not have any instructions from you, your Term Deposit will be renewed for a period of three months using 
+the standard interest rate applicable at maturity. You can also contact us to close your Term Deposit. Information 
+about the current interest rates for our Term Deposit is available on our website or by calling us on 1300 004 863.
+For Term Deposits opened through online banking, if you instruct us to re-invest your term deposit at the end of 
+the original term, the new term deposit will be for the same term as the original term deposit and is subject to the 
+applicable interest rate on the day the new term commences. 
+Term Deposit Specials 
+At our discretion we may offer special Term Deposit rates for specified periods. Should this special cease prior 
+to your Term Deposit maturing and you have instructed us to renew the Term Deposit for the original period, it 
+will be renewed for the default period of three months at the applicable interest rate on the day the new term 
+commences.
+Withdrawal before end of the term
+If you wish to withdraw funds from your Term Deposit prior to maturity, we may require 31 days’ notice. 
+When withdrawing all or part of the funds from your Term Deposit before it matures, a reduction in interest paid 
+may apply as specified in our Term Deposit interest rate sheet.
+Any funds left on your Term Deposit will continue to earn the original contracted interest rate. If the funds left on 
+your Term Deposit are less than the minimum required for that type of Term Deposit, they must be withdrawn or 
+transferred to an appropriate Hume Bank account.
+
+9 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+General Terms and Conditions
+Account Opening and Operation
+To open an account, you must provide us with any information we reasonably require You must operate your 
+account in accordance with the terms and conditions. We may refuse an application to open an account.
+Operation of an account will be governed by any written account authorisation or instructions that we hold for 
+that account from time to time which specify who is authorised to operate the account and whether they may 
+do so alone or jointly.
+Subject to the BPA Y, EFTPOS, Osko, PayID & PayTo conditions, you are responsible for all liability that is incurred 
+as a result of operations on the account, whether the account is in joint or sole names or operation is by an 
+authorised user.
+Authorised User 
+(also known as “authority to operate” or “ATO”)
+You may give a person over the age of 18 authority to operate your account as an authorised user by making an 
+application to Hume Bank. 
+We reserve the right to refuse any application or impose conditions. We will automatically refuse any request for 
+an authorised user on a Line of Credit.
+Where your account is held in your sole name, you may not make the account “two to sign”, unless the account holder 
+is under 18 years of age.
+Any authorised user must be identified in accordance with our requirements.
+This PDS applies to the authorised user in the same way it applies to you so you should ensure that they have read 
+these terms and conditions and comply with them. If they do not comply with them, the result is the same as if you 
+had not complied.
+You may cancel the authority at any time by notifying us in writing. You remain responsible for all transactions made 
+by the authorised user until we have received your written notice and you have destroyed any card or cheque book 
+that we have issued to that person. 
+We are not required to make any inquiries into instructions received from an authorised user in relation to the 
+operation of your account. Subject to the BPA Y, EFT, Osko, PayID & PayTo conditions, you are wholly liable for any loss 
+or damage you or a third party suffers as a result of us acting upon those instructions.
+You consent to us giving an authorised user information about the account to which they are a signatory.
+An authorised user may not change the signature authorisation on an account, nor will we agree to any request 
+by them to issue cards to any other person. Authorised users may not close accounts unless they are business 
+accounts (other than sole traders).
+Accounts held by persons under 18 years of age
+Accounts held by persons under 18 years old may be opened on their behalf by a parent, guardian or carer, and 
+proof of identification for the child will be required at that time. At no time may a child under 12 years be a signatory 
+on an account. 
+If the account opened is a Clancy Koala account, when the child reaches the age of 12 the account will be converted 
+to another Hume Bank account of our choice, however the signing authority will remain as per the original account 
+instructions and the child cannot sign on the account or be issued a card for the account unless agreed to by the 
+parent, guardian or carer.
+Between the ages of 12 and 18, the parent, guardian or carer may choose to retain control of the account. If the 
+parent, guardian or carer chooses to nominate the child as a signatory to the account, the parent, guardian or
+
+10 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+carer will relinquish control of the account unless the account is in joint names.
+If an account has been opened on the child’s behalf by a parent guardian or carer, and the parent guardian or 
+carer has not previously allowed the child to have signing authority on the account, after the account holder turns 
+18 years of age and upon providing appropriate identification to Hume Bank, the account holder will obtain signing 
+authority on the account without further instruction or agreement from the parent, guardian or carer.
+Accounts held by persons between 12 and 18 years of age may also be opened and operated by the person as the 
+sole signatory to the account. In these cases, a parent, guardian or carer will not have control of this account. 
+Hume Bank retains the right to exercise discretion in assessing whether a person between 12 and 18 years of age 
+possesses sufficient maturity to open and operate an account in their own right and to seek parent or guardian or 
+carer assistance when we consider it necessary to do so.
+B PAY
+We are a member of the BPA Y® Scheme. The BPA Y Scheme is an electronic payments scheme through which you can 
+ask us to make payment from your account to Billers who say that payments can be made to them through the 
+BPA Y Scheme. We will tell you if we are no longer a member of the BPA Y Scheme.
+You must comply with the specific account terms and conditions for the account from which you ask us to make a 
+BPA Y payment. If there is any inconsistency between the terms and conditions applying to the account and the BPA Y 
+terms and conditions, the BPA Y terms and conditions will apply to the extent of that inconsistency.
+Information you must give us
+When you ask us to make a BPA Y payment, you must give us the following information:
+> the account from which you want us to make the payment;
+> the amount of the payment;
+> the biller code from the bill; and
+> your customer reference number from the bill.
+Once we have the above information, we will debit the relevant account and make the payment on your behalf. We 
+will not make the payment if the information you give us is inaccurate/incomplete or there are insufficient cleared 
+funds in the account from which you want the payment made. We are not acting as your agent or as an agent of 
+the Biller when we make a BPA Y payment on your behalf.
+How to use the BPA Y Scheme
+You can make BPA Y payments by any one of the following methods:
+> iBank
+> Hume Bank’s App
+> presenting a BPA Y bill at any Hume Bank branch
+> periodical payment request for regular BPA Y payments.
+We will treat any instruction to us to make a BPA Y payment via iBank, as authorised by you at the time your 
+password is entered.
+You acknowledge that the receipt by a Biller of a mistaken or erroneous payment does not or will not constitute 
+under any circumstances part or whole satisfaction of any underlying debt owed between you and that Biller.
+Payments
+We may limit the accounts from which a BPA Y payment can be made or impose limits on the amount of BPA Y 
+payments.
+We will not accept an instruction to stop a BPA Y payment once you have instructed us to make that BPA Y payment. 
+You must notify us immediately if you become aware that you may have made a mistake when instructing us to 
+ ® Registered to BPA Y Pty Ltd ABN 69 079 137 518
+
+11 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+make a BPA Y payment, or if you did not authorise a BPA Y payment that has been made from your account. You do 
+not need to notify us if you have made a mistake as to the amount you mean to pay (see Accuracy of Information 
+below).
+Valid payment direction
+Billers who participate in the BPA Y Scheme have agreed that a BPA Y payment you make will be treated as received 
+by the Biller to whom it is directed:
+> on the date that you make that BPA Y payment, if you tell us to make the BPA Y payment before the cut-off time 
+on a banking business day; or
+> on the next banking business day, if you tell us to make a BPA Y payment after the cut-off time on a banking 
+business day or on a non-banking business day; or
+> on the day or next banking business day that you have nominated for a scheduled payment to take place.
+A delay may occur in processing of a BPA Y payment where:
+> there is a public or bank holiday on the day after you tell us to make a BPA Y payment;
+> you tell us to make a BPA Y payment either on a day which is not a banking business day or after the cut-off 
+time on a banking business day;
+> another financial institution participating in the BPA Y scheme does not comply with its obligations under the 
+BPA Y scheme; or
+> a Biller fails to comply with its obligations under the BPA Y scheme.
+When a Biller cannot process a payment
+If we are notified that a Biller cannot process a BPA Y payment, we will advise you of this and credit your account 
+with the amount of the BPA Y payment transaction amount.
+Accuracy of Information
+You are responsible for ensuring
+> the customer information provided to us by you at the time of the registration is accurate and that you inform 
+us promptly of any change to this information; and
+> the accuracy of information provided to us through iBank, Hume Bank’s App.
+If you discover that you instructed us to make a payment to a Biller for an incorrect amount:
+> if the amount you instructed us to pay is greater than the required amount, contact the Biller for a refund; or
+> if the amount is less than the required amount, you should make a further payment (using BPA Y or another 
+method) for the difference.
+Changes to terms affecting BPA Y
+We reserve the right to vary these BPA Y terms and conditions and will inform you of the changes in accordance 
+with this PDS.
+Suspension
+If we reasonably suspect, or we are made aware, that you are using any of our products or services identified in 
+the PDS to engage in unacceptable conduct, we may use our rights under these terms and conditions to suspend 
+your account(s) or provision of services to you.
+Cut-off times
+If you instruct us to make a payment before the time specified below it will, in most cases, be treated as having 
+been made on the same day.
+
+12 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Day Processing – Cut-off time
+Monday to Friday 4.30pm NSW time
+Saturday, Sunday and Public holidays Processed next banking business day.
+BPA Y payments may take longer to be credited to a Biller if you tell us to make a BPA Y payment on a Saturday, 
+Sunday or public holiday or if the Biller does not process a payment as soon as they receive its details. 
+Liability for mistaken payments, unauthorised transactions and fraud
+You must tell us immediately if:
+> you become aware of any delays or mistakes in processing your BPA Y payments;
+> you did not authorise a BPA Y payment that has been made from your account; or
+> you think that you have been fraudulently induced to make a BPA Y payment.
+We will attempt to rectify any such matters in relation to your BPA Y payment in the way described in this clause. If 
+the ePayments Code applies to your account and you use, Hume Bank’s App or iBank to make a BPA Y payment, and 
+a BPA Y payment is made from your account without your knowledge or consent, liability for that unauthorised BPA Y 
+payment will be determined in accordance with the Electronic Transactions section of this PDS.
+Otherwise, to the extent permitted by any applicable law or code, we are not liable for any consequential loss 
+or damage you suffer as a result of using the BPA Y scheme other than any loss or damage which is due to the 
+negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified 
+at all or only to a limited extent.
+Mistaken Payments
+If a BPA Y payment is made to a person for an amount which is not in accordance with your instructions (if any) 
+and your account has been debited with the amount of that payment, we will credit that amount to your account. 
+However, if you were responsible for a mistake resulting in that payment and we cannot recover the amount of 
+that payment from the person who received it within 20 banking business days of us attempting to do so, you must 
+pay us that amount.
+Unauthorised payments
+If a BPA Y payment is made in accordance with a payment direction which appeared to us to be from you or on your 
+behalf but for which you did not give authority, we will credit your account with the amount of that unauthorised 
+payment. However, you must pay us the amount of that unauthorised payment if:
+> we cannot recover that amount within 20 banking business days of us attempting to do so from the person 
+who received it; and
+> the payment was made as a result of a payment direction which did not comply with any requirements we may 
+have for such payment directions.
+Fraudulent payments
+If a BPA Y payment is induced by the fraud of a person involved in the BPA Y scheme, then that person should refund 
+you the amount of the fraud induced payment. However, if that person does not refund you the amount of the 
+fraud induced payment, you must bear that loss unless some other person involved in the BPA Y scheme knew of 
+the fraud or would have detected it with reasonable diligence, in which case we will attempt to obtain a refund for 
+you of the fraud induced payment.
+We will not be liable to you, or another person, on any basis for a decision made by us in good faith to suspend, limit 
+or close an account or cancel access facilities, except to the extent that the loss is caused by our fraud, negligence
+
+13 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+or wilfull misconduct (including that of our employees or agents).
+Resolution principles
+If a BPA Y payment is a mistaken, unauthorised or fraudulent payment, then we will apply the resolution principles 
+relating to unauthorised payments.
+If a BPA Y payment is both a mistaken and fraudulent payment, then we will apply the resolution principles relating 
+to fraudulent payments.
+Indemnity
+You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind 
+brought against us arising directly or indirectly because you:
+> did not observe any of your obligations described in this PDS in relation to BPA Y; or
+> acted negligently or fraudulently in connection with a BPA Y payment.
+Biller Consent
+If you tell us that a BPA Y payment made from your account is unauthorised, you must first give us your written consent 
+(addressed to the Biller who received that BPA Y payment, consenting to us obtaining from the Biller information about 
+your account with that Biller or BPA Y payment, including your customer reference number and such information as 
+we reasonably require to investigate the BPA Y payment). If you do not give us that consent, we are not obliged to 
+investigate or rectify any BPA Y payment and/or the Biller may not be permitted under law to disclose to us information 
+we need to investigate or rectify that BPA Y payment.
+BPA Y View
+BPA Y View is a way for you to be sent your bills through iBank or Hume Bank’s App.
+Once you have registered for BPA Y View, you can view, pay and track payments of bills received from nominated 
+billers via one log in – making management of your bills easier.
+To register to receive a bill via BPA Y View:
+> Log on to iBank.
+> Go to the “BPA Y View bills” section under the “Payments” drop down menu.
+> Follow the prompts to register – you will need your paper bill with you when you register.
+> You can elect to receive notification that the bill has arrived via an email being sent from the Hume Bank 
+website. Alternatively, you will be notified if a bill has arrived the next time you log on to iBank.
+> Once you have registered, your request will be processed – normally within two working days and you will be 
+notified electronically if your request has been successful.
+If you wish to dispute a BPA Y View bill, please contact the biller directly using the contact details on the bill.
+For more information about using BPA Y View, please log on to www.bpay.com.au.
+Card access to your account
+Your Visa debit card
+If we issue you with a Visa debit card to access your account, this section applies. You or any authorised user must 
+sign your card as soon as you receive it.
+Each card we issue always belongs to us. We may retain or require you to return your card at any time.
+If we issue a replacement card to you, you must not use the card it replaces and you remain liable for any use of
+
+14 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+the replaced card.
+You must not use your card after the expiry date printed on it.
+We can refuse to authorise a proposed transaction if:
+a) the transaction exceeds the cleared funds;
+b) your card has been reported lost or stolen; or
+c) we have other good reason to do so (such as we suspect the card may be being used fraudulently).
+Transaction disputes relating to an online purchase of goods using your Visa debit card should be raised through 
+Hume Bank’s Transaction Dispute process. Refer to our section on Disputes for further information. 
+If we reasonably suspect, or we are made aware, that you are using any of our products or services identified in 
+this PDS to engage in unacceptable conduct, we may use our rights under these terms and conditions to
+> Suspend your card(s) or provision of services to you.
+> Limit or remove access to your card(s) or services provided.
+Cancellation of your card
+You may cancel your card at any time via Hume Bank’s App, visiting a branch or by contacting us on 1300 004 863.
+We may cancel your card at any time if you are in default under the conditions of use for the card, your card has 
+been lost or stolen or we suspect it is being used fraudulently. We may cancel your card without telling you first; 
+however, we will notify you as soon as possible afterwards.
+Cards which have not been used for a period of 12 months prior to their expiry date will not be automatically 
+renewed.
+Additional cardholders 
+Any authorised user can apply to have a card issued to them. Any additional cardholder must also be a customer 
+of Hume Bank.
+If we agree to the request, they will receive an additional card and PIN to use on the account. You are liable for 
+any use of the additional card and your account by the authorised user as if your account had been used by you.
+You can cancel any additional card by calling us or visiting any Hume Bank branch during normal business hours. 
+You should note that in cases where you cannot destroy the additional card, although a stop can be placed on 
+the additional card, it could still be used in some circumstances and you remain responsible for any transactions 
+authorised.
+Digital Wallet
+Hume Bank Visa debit and credit cards can be linked to a Digital Wallet to securely make payments online and 
+at participating merchants using tap and pay technology. Age restrictions may apply, refer to the Terms and 
+Conditions for your chosen Digital Wallet.
+Disputes
+If a Visa debit card transaction was:
+> unauthorised,
+> made even though you cancelled a recurring payment arrangement,
+> for goods or services that the merchant did not deliver, or
+> for goods and services which did not match the description provided by the merchant;
+Then you can ask us to dispute the transaction by reversing the payment to the merchant’s financial institution. 
+However, the dispute rights may not apply for certain payments (e.g. BPA Y payments) made from your card account.
+
+15 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+A purchase from a merchant is a legal transaction between you and that merchant, and the merchant is usually 
+responsible for providing (or restricting) the goods or the performance of the services. We are not responsible for 
+goods or services obtained by you using your card, unless the law makes us liable.
+If you believe there’s been an error or an unauthorised transaction, please let us know as soon as possible, within 
+120 days for Visa debit transactions
+Once these time limits have expired, any dispute rights may be lost. Where the ePayments Code applies to the 
+transaction, its time limits may apply and not those of the card scheme.
+If you notify us in time, and we are satisfied that you are entitled to a dispute, we will process the dispute without 
+delay and will credit your account for the amount initially debited for the transaction. However, you should note that 
+the merchant also has rights to have the transaction further investigated and re-debited if appropriate. We will 
+ensure we dispute the transaction for the most appropriate reason and not accept a decline by the merchant’s 
+financial institution unless it is consistent with any scheme or rules that apply.
+Refer to the Fees & Charges brochure, Terms, Conditions Fees & Charges for Hume Bank Visa Debit Card, or your 
+Letter of Offer, for fees that may apply if a dispute is not resolved in your favour.
+Change of Name or Address
+If you change your address or contact details, you should promptly update your details; via iBank, by visiting a 
+branch or by calling us. If you change your name you must promptly tell us by visiting a branch or calling us. We may 
+require documentation in support of your request.
+We will not be responsible for errors or losses or your failure to receive a notice from us if you have not promptly 
+told us about those changes. If we are unable to contact you via your nominated form of contact, we may contact 
+you using other details you have provided us.
+Changes in circumstances
+If you do not continue to satisfy our eligibility requirements for an account, as set out in these terms and conditions, 
+we may convert your account to another account with us.
+Fees and charges may apply on the other account. We will notify you at least 30 days prior to converting your 
+account that we intend to convert your account to another account. 
+If you do not agree to the conversion to the other account with us, you must, 10 days prior to the conversion of 
+your account, notify us of your intention to close the account and where to pay your funds. If you do not provide us 
+with notice, you will be deemed to have consented to the conversion of your account to another account with us..
+Cheques
+If you have an existing cheque facility and a cheque is presented for payment, and there are not enough cleared 
+available funds in your account, we may not pay the cheque (that is, we may dishonour it) or we may pay the cheque 
+at our discretion. We will charge you a fee in these circumstances – see our Fees & Charges brochure.
+Cancellation of your cheque facility
+We reserve the right to cancel your cheque book or close your account if we consider you are not operating your 
+cheque book within these terms and conditions.
+How long does it take to clear a cheque?
+It usually takes three business days for a cheque to clear. If we allow you to draw on the cheque before it has 
+cleared, you will be liable for the amount of the cheque if it is subsequently dishonoured.
+How a cheque may be specially cleared
+You can arrange for a cheque to be cleared in less than the usual time by requesting a “special clearance”. Fees 
+apply for this service.
+
+16 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+How to fill in a cheque
+All cheques must be completed clearly, dated and signed by you.
+Never write a cheque using a pencil or erasable ink.
+Always write the amount in words as well as figures:
+> begin the amount in words as close as possible to the left hand side and add “only” to the end of the amount; 
+and
+> begin the amount in figures as close as possible to the dollar sign.
+Only sign your cheque when it is filled out.
+Any alterations must be initialled.
+Crossing a cheque
+When writing a cheque, you can cross it by drawing two parallel lines from top to bottom on the face of the cheque.
+If you cross a cheque, you are telling the bank that the cheque must be paid into an account and not cashed over 
+the counter.
+The meaning of “not negotiable”
+Adding the words “not negotiable” between the two parallel lines protects the true owner of a lost or stolen cheque. 
+These words ensure that the recipient of a cheque obtains no better rights to the cheque than the person who 
+passed the cheque.
+The significance of deleting “or bearer”
+If you do not delete the words “or bearer”, you are authorising the amount of the cheque to be paid to any person 
+who is in possession of the cheque.
+The meaning of “account payee only”
+If you write these words on a cheque, the cheque may only be paid into the account of the person named on the 
+cheque.
+How and when a cheque may be stopped
+You may request a payment on a cheque be stopped if it has not yet been presented for payment. To do this, please 
+contact one of our branches. You may be charged a fee for this service – see our Fees & Charges brochure.
+Cheque security
+You must take all reasonable care to prevent fraud occurring in relation to your cheque facility.
+You must notify us immediately if you think that a cheque drawn on your account has been forged or fraudulently 
+altered in any way or without your authority.
+You must keep your cheque book in a safe place at all times. If any cheque or cheque book is lost or stolen, you must 
+tell us as soon as possible.
+If you don’t tell us as soon as possible, you may be liable for any transactions that take place before you report the 
+loss or theft to Hume Bank even if the transaction occurred without your authority.
+The dishonour of cheques (including post dated and stale cheques)
+We may at our discretion dishonour any cheques presented for payment which:
+> exceed your available account balance;
+> have not been completed correctly or are incomplete (e.g. unsigned or undated);
+> have unsigned alterations or a variance between the amount expressed in words and figures; or
+
+17 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+> are post dated or stale/more than 15 months old.
+You may also incur a fee – see our Fees & Charges brochure.
+Bank cheques
+Bank cheques are cheques instructing payment from Hume Bank itself rather than from a customer’s account. 
+If a bank cheque is lost or stolen we will, on certain conditions, provide a replacement cheque. 
+Bank cheques, once issued, may only be cancelled and the monies recredited to the customer’s account on return 
+of the cheque to Hume Bank. Please refer to our Fees & Charges brochure for all costs associated with Bank 
+Cheques.
+Clearance of Funds
+Some credits to your account may be subject to clearance. If we allow you access to those funds before clearance 
+is effected, you must immediately repay that money if the funds are not received or payment is reversed.
+Closing Your Account
+You can close your account only if it is in credit or has a $0 balance.
+You can close your account by:
+> advising in writing, calling our contact centre or visiting a Hume Bank branch and 
+> returning to us or destroying any cards, unused passbooks and unused cheques issued to you or any 
+authorised user. We accept no liability for any loss incurred by the improper or fraudulent use of any unused 
+cheques which have not been returned to us.
+To enable Hume Bank Visa Card transactions to be processed, a 30 day waiting period applies to the closure of 
+your account.
+We can close your account:
+> if it is being operated outside these terms and conditions;
+> where we consider it necessary for the prudent administration of Hume Bank;
+> if you have conducted the account in an unsatisfactory manner; or
+> where it is considered that there is valid reason to do so (for example if fraud has occurred). We can cancel or 
+restrict access to your account if the account being accessed is overdrawn or is otherwise considered out of 
+order by us.
+If we reasonably suspect, or we are made aware, that you are using any account and/or products or services 
+identified in this PDS to engage in unacceptable conduct (refer unacceptable conduct section), we may use our 
+rights under these terms and conditions to:
+> suspend your account(s) or provision of services to you;
+> limit or remove access to your accounts or services provided;
+> close your account and cancel any cards or services provided by us to you
+Unless there are exceptional circumstances (e.g. in the case of fraud), we will give you at least 14 days advance 
+notice before closing your account. We will notify you at the last postal or electronic address you have given us, or 
+by other legally permissible means.
+We can close your account with 14 days’ notice if it has been inactive for a period of 12 months or more, We will notify 
+you at the last postal or electronic address you have given us, or by other legally permissible means.
+
+18 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+If your account is closed:
+> we may cancel any card and/or cheque facility linked to that account and disable your access to other payment 
+facilities;
+> you must destroy all cards and unused cheques linked to that account;
+> you will be liable for any transactions that were not processed, or that occur on the account (including but not 
+limited to outstanding merchant transactions and cheques presented) at the time the account is closed;
+> you must pay us on demand all unpaid fees and charges and other costs arising from the operation or 
+maintenance of the account prior to the closure of the account; and
+> subject to any obligations at law that we may have, any cleared funds standing to the credit of the account 
+will, after application of fees, charges and interest, be reimbursed to you.
+Please also see the “Joint Accounts” section on how to close a “two to sign” account.
+Customer Owned Banking Code of Practice
+We undertake to comply with the Customer Owned Banking Code of Practice (2022) as it applies in our dealings 
+with you.
+Information on the Code is available on our website or at 
+https://www.customerownedbanking.asn.au/how-it-works/code-of-practice 
+If you believe we have breached the Code you can complain to us via our customer complaint process (see below). 
+If we are not able to resolve the complaint to your satisfaction and the complaint involves a claim that you have 
+suffered loss or detriment, you may refer the matter to the external dispute resolution scheme (the contact details 
+can be found in the customer feedback section of this brochure).
+We will only comply with the Code if Australian laws allow us to but you should be aware that the Code does not 
+over-ride any statutory or common law obligations we have.
+Where there is a conflict between the ePayments Code and the Customer Owned Banking Code of Practice, the 
+ePayments Code will take priority.
+Combining Accounts
+We reserve the right to combine balances of two or more of your accounts, even if they are in joint names. Should 
+we exercise our right to combine your accounts, we will inform you promptly after doing so. We will also comply 
+with any applicable requirements of the Code of Operation for Services Australia & Veteran Affairs Direct Credit 
+Payments.
+Copies of Documents
+You may request copies of certain documentation we hold to do with our relationship (including documentation 
+relating to any loan or any notice less than 2 years old that we have issued to you). We will provide it to you within 
+14 days if the original document is less than one year old and within 30 days if it is more than one year or less than 
+seven years old. The copy may be in the form of a computer generated record and we may charge you a fee (see 
+our Fees & Charges brochure). We are not obliged to provide you with copies of any documents that are more than 
+7 years old.
+Death of a Customer
+When Hume Bank receives notification of the death of a customer, any
+> account in their name is immediately frozen to withdrawals;
+> power of attorney or authority to operate given by them or in their favour automatically ceases;
+> periodical payments authorised by them will be cancelled;
+> card in their name will be cancelled.
+
+19 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+The deceased’s next of kin or executor (as appropriate) may access any remaining funds on completion of 
+appropriate paperwork.
+Please see the joint accounts section of this PDS for details of how we deal with accounts in joint names.
+Deposits and Withdrawals
+Where a deposit is left at a branch for processing the value provided will be validated by two staff members. The 
+account holder accepts liability for any discrepancy between the value provided and the amount recorded on the 
+deposit slip.
+You can ask us to adjust your daily transaction limit to increase the funds that you may withdraw. We do not have 
+to approve your request, but if we do, our approval does not mean that we have agreed that the adjusted limit will 
+always apply. If you need to increase your transaction limit for a large withdrawal, please let us know at least one 
+business day in advance. Business customers can contact their Relationship Banker to arrange this.
+Direct Debits and Periodical Payments 
+A direct debit is a debit from your account with us that you arrange through a merchant or other service provider 
+by providing them with your account details. 
+You must give us the information we require to enable us to make a direct debit payment. You must check that all 
+information you give us is correct. You are liable for any payment we carry out in accordance with your instructions.
+You must ensure that you have sufficient funds available in your account, from which the direct debit payment is to 
+be made, prior to 9.00am NSW time on the day the payment is due to be processed. When a direct debit request is 
+received with a payment date due to be processed on a non-business day, we will process the debit on the following 
+business day.
+To the extent permitted by law, we are not liable for any loss or damage you suffer as a result of using the payment 
+facility or any delay, omission or failure in respect of any payment.
+To cancel a direct debit payment, complete a Direct Debit Cancellation form and return it to Hume Bank – this form 
+can be downloaded from our website www.humebank.com.au or can be obtained from any branch. Hume Bank will 
+stop a direct debit from your transaction or savings account promptly after receipt of this cancellation request, 
+but please allow at least 3 business days before the next payment date for processing – a cancellation request 
+may not be able to be processed in time for a payment to be stopped if the payment falls due within 3 business 
+days of the request being made.
+We recommend that you also contact the organisation or merchant to whom payments were being made to advise 
+of the cancellation, to ensure that there are no fees that may be charged by the merchant or organisation for a 
+rejected direct debit request.
+A periodical payment is a debit from your eligible account with us which you have instructed us to make, either on a 
+future date or on a regular basis, to another account, BPA Y biller, or to a cheque payee. 
+A periodical payment can be established by confirming all relevant details with us via a branch or calling the contact 
+centre, or, if you are a registered iBank user, via iBank or Hume Bank’s App. Periodical payments established via 
+iBank or Hume Bank’s App are subject to the external daily transfer limit that you have set on your account. 
+When we make a periodical payment we are not acting as your agent or the agent of the payee. 
+You must ensure that you have sufficient funds available in your account from which the periodical payment is to 
+be made prior to 8.00am NSW time on the day the payment is due to be processed. When a periodical payment is 
+due to be processed on a non-business day, we will process the debit on the previous business day. If there are 
+insufficient funds in the nominated account on the day we attempt to process the periodical payment, we will 
+attempt to process the payment again for the next three days. If we are unable to process the payment after 
+four attempts then this instance of the payment will be missed. If a payment is missed five consecutive times (e.g.
+
+20 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+five consecutive occurrences of four payment failures) then the periodical payment will be automatically cancelled. 
+We are not required to advise you if a periodical payment is missed or cancelled.
+To the extent permitted by law, we are not liable for any loss or damage you suffer as a result of using the payment 
+facility or any delay, omission or failure in respect to any payment.
+To cancel or alter a periodical payment, please let us know via visiting a branch or calling the contact centre. . For 
+registered iBank users, periodical payments can also be altered or cancelled using the Future Payments facility in 
+iBank. 
+Electronic Communication
+When the ePayments Code permits and subject to the requirements of any applicable law and your agreement, 
+we may use electronic means to communicate with you, for example, to provide you with statements, notices, 
+transaction confirmations or receipts electronically.
+When we do so:
+> you will not receive paper copies of relevant information;
+> you agree to check regularly to see if you have received any electronic communication from us;
+> you will be responsible for maintaining and checking your electronic equipment; and
+> you will be responsible for printing or saving important information and we strongly recommend that you do 
+so.
+Subject to the requirements of any applicable law and your agreement, where you carry out a transaction through 
+iBank on our website – www.humebank.com.au or via Hume’s App and we make a transaction record or receipt 
+(which you save or print) available to you on our website immediately on completion of the transaction, we will not 
+provide you with a paper transaction or receipt.
+We will not:
+> use unsolicited email or telephone contact to ask you to disclose your personal banking information or secure 
+code or password to us; or
+> send you unsolicited emails that include attachments.
+If you receive such communication, delete them immediately or hang up on the caller. If a message includes our 
+brand or name or makes reference to your banking details, contact us to report the incident.
+You can opt out of receiving electronic communications by visiting any branch or by calling us on 1300 004 863. 
+Electronic Transactions
+We warrant that we will comply with the ePayments Code as it applies to your dealings with us. The Code applies 
+to electronic payments, including ATM, EFTPOS and credit card transactions, online payments, online banking, direct 
+debits, BPA Y, Osko, PayID & PayTo.
+Liability for unauthorised transactions
+The following provisions only apply to electronic transactions carried out by or anyone performing a transaction 
+without your knowledge and consent (“unauthorised transactions”).
+You will not be liable for losses in relation to:
+> unauthorised transactions where it is clear that you did not contribute to the loss;
+> the fraudulent or negligent conduct of our employees or agents or companies involved in networking 
+arrangements or of merchants who are linked to the electronic system or their agents or employees;
+
+21 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+> any component of an access method that is forged, faulty, expired or cancelled;
+> unauthorised transactions occurring after you have notified us as required by these terms and conditions 
+that the security of your pass codes has been breached or your device has been lost, stolen or used without 
+your permission;
+> transactions which require the use of any device (e.g. a card) or pass code forming part of your access method 
+and that occurred before you have received that device, or pass code (including a reissued device or pass 
+code);
+> an unauthorised transaction that can be made using an Identifier without a pass code or device; or
+> the same transaction being incorrectly debited more than once to the same account.
+You are liable when we can prove on the balance of probability that you have contributed 
+to the losses caused by the unauthorised transaction in any of the following ways:
+> through your fraud;
+> voluntarily disclosing your security code, in connection with other personal or financial information, that enables 
+any other person to access your account information, or for a transaction to be made;
+> indicating (e.g. writing) one or more of the pass codes on the outside of the card;
+> keeping a record of one or more of the pass codes (without making any reasonable attempt to protect the 
+security of the pass code records) on one article (e.g. address book), or on several articles, carried with your 
+card so that they are liable to loss or theft at the same time as the card;
+> keeping a record of the pass code that can be used with a card on anything you carry with a card or any 
+article that is liable to be lost with a card without making any reasonable attempt to disguise the security of 
+the pass code;
+> selecting or changing a pass code to a pass code that represents your birth date or using an alphabetical pass 
+code that is recognised as part of your name after we have instructed you not to;
+> otherwise acting with extreme carelessness in failing to protect the security of all your codes; or
+> where the ePayments Code requires, that the recording or voluntary disclosure of one or more but not all of 
+the pass codes forming part of the access method was the dominant contributing cause of the loss.
+In these cases, you will be liable for the actual losses which happen before you notified us that the card has been misused, 
+lost or stolen or that the security of the pass code forming part of the access method has been breached, but are not 
+liable for any of the following amounts:
+> that portion of the losses incurred on any one day which exceeds the daily transaction limit; or
+> that the portion of the losses incurred in a period which exceeds any other periodic transaction limit(s) 
+applicable to that period; or
+> the portion of the total losses incurred that exceeds the balance of the account(s); or
+> all losses incurred on any account which we and you had not agreed could be accessed using the access 
+method.
+Unreasonably delaying notification
+When you have contributed to losses resulting from unauthorised transactions by unreasonably delaying 
+notification of the misuse, loss or theft of a card forming part of the access method, or that the security of all 
+pass codes forming part of the access method has been breached, you are liable for the actual losses which occur 
+between when you became aware (or should reasonably have become aware in the case of a lost or stolen card) 
+and when we are actually notified, except for: 
+> that portion of the losses incurred on any one day which exceeds the daily transaction limit applicable to the 
+card; or
+
+22 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+> that portion of the losses incurred in a period which exceeds any other periodic transaction limit applicable to 
+that period; or
+> the portion of the total losses incurred that exceeds the balance of the account(s), including any prearranged 
+credit; or
+> all losses incurred on any accounts which we and you had not agreed could be accessed using the access 
+method.
+When you have limited liability
+Where a pass code was required to perform the unauthorised transaction and it is unclear whether you have 
+contributed to the loss caused by an unauthorised transaction, you will be responsible for an amount not exceeding 
+the least of:
+> $ 150; or
+> the balance of your account(s) including any pre-arranged credit from which value was transferred in 
+unauthorised transactions and which we and you have agreed may be accessed using the access method; or
+> the actual loss at the time we were notified that the card has been misused, lost or stolen or that the security 
+of the pass code forming part of the access method has been breached (excluding that portion of the losses 
+incurred on any one day which exceed any applicable daily transaction or other periodic transaction limit).
+Liability for equipment malfunction
+We are responsible for any loss from a transaction at a terminal where our investigations show that the loss is 
+directly caused as a result of terminal malfunction and the claim is by investigation. In these circumstances, we 
+will correct the loss by making the appropriate adjustment to the account. But if you suffer a loss arising from a 
+malfunction or breakdown of an ATM or any other system or equipment and you should have been aware that the 
+machine was malfunctioning or was not able to be used, our liability is limited to:
+> the correction of any errors on your account; and
+> the refund of any charges or fees imposed as a result.
+Limitations on electronic transactions
+Merchants, other financial institutions or third parties, may impose limitations on the use of their electronic 
+equipment, including restrictions on the type of electronic transactions that can be carried out using their 
+electronic equipment.
+We are not liable for the refusal of any merchant to accept an electronic transaction.
+Not all electronic equipment (e.g. ATMs) from which cash can be withdrawn will always contain cash.
+Not all electronic equipment will allow deposits to be made, either by electronic funds transfer or by depositing 
+cash or cheques.
+Mistaken Online Payments
+If you report to us that you made a mistaken online payment we will acknowledge your report and investigate 
+whether a mistaken online payment has occurred.
+A mistaken online payment means a payment by you through a ‘Pay Anyone’ online banking facility including using 
+iBank or Hume Bank’s App where funds are paid into the account of an unintended recipient because you entered 
+or selected a Bank/State/Branch (BSB) number and/or identifier that did not belong to the named and/or intended 
+recipient as a result of:
+> your error, or
+> you being advised of the wrong BSB number and/or identifier.
+This does not include payments made using BPA Y.
+
+23 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Where we are not satisfied that a mistaken online payment occurred:
+We are not required to take any further action, but may ask the other financial institution to investigate. You are 
+liable for any loss arising from the mistaken online payment. 
+Where we are satisfied that a mistaken online payment has occurred
+If you report within 10 business days of making the payment:
+and there are sufficient credit funds available in the account of the unintended recipient and both we and the other 
+financial institution (which holds the account to which the reported mistaken payment was made) are satisfied 
+that a mistaken online payment occurred, then the other financial institution must return the funds to us within 5 
+to 10 business days of receiving our request. We’ll then return the funds to your account as soon as practicable..
+If you report between 10 business days and 7 months of making the payment:
+If there are sufficient credit funds available in the account of the unintended recipient and we are satisfied 
+that a mistaken online payment occurred, we’ll ask the other financial institution to investigate (which must be 
+completed within 10 business days of receiving our request). If, after the investigation is completed, the other 
+financial institution is satisfied that a mistaken payment occurred, it must prevent the unintended recipient from 
+withdrawing the funds mistakenly paid for a further 10 business days. The other financial institution must notify 
+the unintended recipient that the funds will be withdrawn from their account unless they can establish that 
+they’re entitled to the funds within this 10 business day period. If the unintended recipient doesn’t establish that 
+they’re entitled to the funds within this timeframe, the other financial institution must return the funds to us 
+within a further 2 business days. We’ll then return the funds to your account as soon as practicable.
+If you report after 7 months of making the payment: 
+If there are sufficient funds available in the account of the unintended recipient and both we and the other financial 
+institution are satisfied that a mistaken online payment was made, the other financial institution must seek the 
+consent of the unintended recipient to return the funds mistakenly paid. If the unintended recipient consents, the 
+other financial institution must return the funds to us. We will then return the funds to your account as soon as 
+practicable.
+If you report at any time but other financial institution not satisfied that a mistaken 
+online payment was made:
+If we are satisfied that a mistaken online payment occurred, but the other financial institution is not satisfied, but 
+there are sufficient credit funds available in the account of the unintended recipient, the other financial institution 
+may seek the consent of the unintended recipient to return the funds. If the unintended recipient consents, the 
+other financial institution must return the funds to us. We will then return the funds to your account as soon as 
+practicable.
+If you report at any time but there are insufficient credit funds:
+If there aren’t sufficient credit funds available in the account of the unintended recipient to the full value of the 
+mistaken payment—yet both we and the other financial institution are satisfied that a mistaken online payment 
+was made—the other financial institution must use reasonable endeavours to retrieve the funds from the 
+unintended recipient (e.g. by facilitating repayments in instalments).
+In all instances, we’ll advise you of the outcome the investigation of a reported mistaken online payment in writing 
+within 30 business days of the day on which the report was made.
+If you are the recipient of a mistaken online payment:
+If Hume Bank is satisfied that a mistaken online payment has been credited to your account Hume Bank is required 
+under the ePayments Code to return the payment to the sending institution. You authorise Hume Bank to withdraw 
+the funds from your account and return the funds to the sending institution without prior notice to you. 
+If we have received notice of the mistaken online payment more than 10 days after the transaction was made,
+
+24 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Hume Bank may freeze the amount of the transaction and contact you to confirm further information regarding 
+the payment prior to returning the payment to the sending institution. 
+If there are insufficient funds to return the payment, Hume Bank may contact you to arrange for the funds to be 
+returned in another manner, for example: at a future payment date or via instalments. 
+Financial Claims Scheme
+The Financial Claims Scheme provides a guarantee of funds deposited with an authorised deposit-taking institution 
+(ADI), such as Hume Bank, in the event that the ADI becomes insolvent.
+For more information about the Financial Claims Scheme visit http://www.fcs.gov.au. For a list of Hume Bank 
+accounts protected under the Scheme please visit www.humebank.com.au 
+Foreign Cheque Clearance
+Cheques in foreign currency will be converted to Australian Dollars at the time of clearance using the exchange 
+rate prevailing on that day. The cheque must be returned to the bank of origin, therefore clearance may take 
+between 4 and 8 weeks after you lodge the cheque with us.
+We will not be responsible for any losses as a result of fluctuations in exchange rates between when the cheque is 
+lodged with us and when the exchange rate is applied.
+In certain circumstances, we may be able to credit the relevant account prior to full clearance of the foreign 
+currency cheque but, if the cheque subsequently fails to clear, you will be responsible for refunding any losses 
+incurred on your account.
+Freezing your Account
+We may freeze your account to further activity:
+> if it is being operated outside these terms and conditions;
+> if you have conducted the account in an unsatisfactory manner; or
+> where it is considered there is valid reason to do (for example where there is a dispute in relation to the 
+account).
+You may freeze your account by:
+> phoning or visiting any branch on a normal working day and telling us why you wish to freeze your account (e.g. 
+you suspect fraud).
+Where an account has been frozen at your request, you may ask us to restore it to normal operating status at any 
+time. If the account is ‘two to sign’, we will need all verified account signatories to confirm the action.
+Inactive Accounts
+If you have not completed any deposits or withdrawals on your account for at least 12-months, we may deem your 
+account to be inactive. 
+We will notify you if we think your account is inactive and ask if you want to keep the account open, but there may 
+be circumstances where we are not able to (such as your contact details not being up to date). 
+If we do not hear back from you and your account has remained inactive for at least 12-months, your account may 
+be closed. 
+Fees may apply to inactive accounts.
+
+25 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Unclaimed Monies
+If your account remains inactive for 7 years, we are required by law to forward balances of more than $500 to 
+the Australian Securities and Investments Commission (ASIC) as unclaimed monies.
+We can assist you in making a claim for funds forwarded to ASIC from your Hume Bank account.. Please contact us 
+on 1300 004 863 or visit any of our branches.
+Fees may apply to inactive accounts. 
+Interest Rates
+Hume Bank calculates the interest that accrues on our banking products on a daily basis by dividing the applicable 
+interest rate, or multiple interest rates where appropriate, by 365 (including in a leap year).. 
+After calculating the total interest in a given period of time, Hume Bank will apply that total interest to your account 
+balance on a payment schedule that is contained in the terms and conditions of your specific banking product. This 
+is known as your banking product’s “interest frequency”, and it may be monthly, quarterly, twice annually, annually, 
+or at maturity. The total interest applied will exclude the last day of the interest frequency period, but that last day 
+of interest will be included in the interest calculation for the following period. 
+If you close your transaction or savings account before the end of the normal interest period, the interest is 
+calculated daily and applied to the balance of your account on the day of the account closure.
+Bonus Interest
+For accounts eligible for Bonus Interest ;
+Bonus interest is calculated daily and paid monthly, provided that:
+> a minimum deposit of $10 is made during the calendar month; and
+> no withdrawals are processed during that same period.
+For the purposes of determining bonus interest eligibility:
+> deposits must be received and processed prior to the end of month processing cut-off on the last calendar 
+day of the month.
+> any deposits and/or withdrawals made after the end of month processing cut-off on the last calendar day of 
+the month will be treated as occurring in the following calendar month.
+Note; The end of month processing cut-off time may vary each month. To ensure eligibility, we recommend completing 
+transactions prior to 5:00pm on the last business day of the month.
+Joint Accounts
+Where your account is in two or more names, the following applies unless you instruct otherwise:
+> your liability under the account is joint and several. This means that each of you individually and all of you 
+together are liable for the whole of any debit balance and have the right to all of the credit balance on the 
+account;
+> each of you may operate the account independently of the other unless we are otherwise instructed;
+> we are not required to make any inquiries in relation to any instructions you give us with respect to the 
+operation of the account. We are not liable for any loss or damage you or a third party suffers as a result of 
+us acting upon those instructions;
+> when a joint account holder passes away, the surviving account holder may choose to retain both names on 
+the account. If the surviving account holder choses to remove the deceased’s name, the surviving account 
+holder must be listed first on the account;
+> if the deceased account holder is listed first on the account, the account will need to be closed and funds 
+transferred to a new account in the survivor’s name;
+> we can send statements and notices (including changes to this PDS) by mailing them to any one of you at the
+
+26 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+mailing address shown in our records (or via any other method agreed or allowed by law) and they will be 
+deemed to have been received by all of you;
+> if we give this PDS to any of you, it will be considered to have been received by all account holders;
+> cheques made payable to any one or more of you may be deposited into your account; and
+> we will allow the account to be operated in accordance with the authority given to us at the time the account 
+is opened or as changed from time to time by notice to us, unless we are notified of a dispute between you 
+when we may require all joint account holders to sign any authority to operate the account;
+> where a joint account holder requests for an account to be converted, closed, or converted to an individual 
+account, both joint account holders must authorise this change;
+> we may restrict access to a joint account holder if we think it’s reasonably necessary to do so, e.g. to prevent 
+financial abuse.
+> we, us, our or Hume Bank – means Hume Bank Limited.
+Online Banking
+Personal Banking
+For information about accessing Hume Bank’s App, iBank, and protecting your access details, please refer to www.
+humebank.com.au/tools/help
+Business Banking
+The iBank business banking module allows businesses enhanced options for controlling access to each of their 
+accounts. Using this module, a business can authorise individuals to have differing levels of access – from view only 
+to full access – for each account.
+Any signing authority on an account (e.g. 2 to sign) will continue to apply.
+To access the business banking module, a business must complete a business banking registration form, nominate 
+one or more persons to be administrators and lodge the form at any branch. Once registered, these administrators 
+must activate authority levels and can give those with authority to operate differing levels of access to the business’ 
+accounts. The administrators can also nominate persons to have view only or data entry only access; this means 
+they cannot transact on any accounts and need not be authorised signatories on the accounts.
+Inactive online banking accounts
+If you have registered for online banking, but do not access your account by this channel regularly, Hume Bank may 
+restrict or revoke your access to online banking.
+Online banking access may be:
+> restricted to ‘’view only’’ access if you have not accessed your account via online banking for greater than 6 
+months
+> revoked if you have not accessed your account via online banking for 12 months (this will not occur if you have 
+elected to receive eStatements).
+Registration and password selection
+You must register for iBank to be able to access Hume Bank’s App. When you register to use iBank, you will be 
+provided a password which you will be required to change the first time you use the facility.
+You must maintain a complex password meeting our requirements, otherwise we reserve the right to request that 
+you change your password or block your access until you do so.
+Access and processing
+> on accounts requiring two or more signatures to transact, each signatory must enter their individual security 
+code before a transaction can be undertaken.
+
+27 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+> we may deny access to iBank, Hume Bank’s App without prior notice to you for reasons of security or quality 
+of data transfer service, or to perform maintenance to, or upgrade the service;
+> we may cancel your access to iBank, Hume Bank’s App at any time without notice if you are in breach of these 
+terms and conditions; however, we will notify you as soon as possible afterwards;
+> you may end your use of iBank, Hume Bank’s App at any time by asking us to cancel your access;
+> an instruction to iBank or via Hume Bank’s App will be processed upon receipt. An instruction cannot be stopped 
+once it is acted upon by Hume Bank;
+> we may delay processing an instruction received by iBank or via Hume Bank’s App pending a request to you to 
+validate the instruction;
+> any transaction you request by iBank or via Hume’s App may be refused by us without giving any reason or 
+advance notice to you (such as you do not have sufficient cleared funds); and
+> unless you request otherwise, the external daily transfer limit will be set at $2,000.
+> The external transfer limit relates to all transfers made to accounts other than Hume Bank accounts but does 
+not include transfers made via BPA Y or cheque.
+System and Security 
+It is your responsibility to ensure the security of any devices or equipment you use to access iBank or Hume Bank’s 
+App (see www.humebank.com.au for some security tips).
+We may cancel access to your account if we believe Hume Bank’s internet or Hume Bank’s App malfunctions or 
+is otherwise unavailable for use. We may also cancel access to your account if we believe that the security of an 
+access method or our systems have been compromised. 
+Cut-off times
+If you instruct us to transfer funds to an external party before the time specified below, it will, in most cases, be 
+treated as having been made on the same day but may not be processed until the next business day.
+Day Processing – Cut-off time
+Monday to Friday 4.30pm NSW time
+Saturday, Sunday and Public holidays Processed next banking business day.
+Check your transaction history and statements
+We recommend that you regularly check your transaction history and account statement to make sure there are 
+no errors and no unauthorised transactions on any of your accounts. If you suspect that any such transactions 
+have taken place, please contact us on 1300 004 863 during normal business hours.
+Osko
+Osko by BPA Y is a digital service that has been built on the New Payments Platform and is offered through 
+customers’ existing digital banking channels (App and iBank). Refer to the Osko Terms and Conditions, which can be 
+viewed at www.humebank.com.au or obtained on request at any Hume Bank branch.
+Confirmation of Payee
+Confirmation of Payee is an industry wide service which is an initiative of Australian Payments Plus that enables a 
+payer to confirm the account name of the BSB and account number they enter matches the account name held 
+by the payee’s financial institution. Refer to the Confirmation of Payee Terms of Use which can be viewed at www.
+humebank.com.au or obtained on request at any Hume Bank Branch.
+
+28 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+PayID
+PayID is the name of the New Payments Platform addressing service. It is a function of the platform that allows 
+consumers to link financial accounts to easy-to-remember pieces of information such as a phone number and email 
+address. Refer to the PayID Terms of Use, which can be viewed at www.humebank.com.au or obtained on request at 
+any Hume Bank branch. 
+PayTo
+PayTo is a fast and secure function of the New Payments Platform service, that allows consumers to see and have 
+control of direct debit payments within their online banking. Refer to the PayTo terms of use, which can be viewed at 
+www.humebank.com.au or obtained on request at any Hume Bank branch.
+Overdrawn Accounts
+Unless you have our prior agreement, you must not allow your account to become overdrawn, and we are under 
+no obligation to allow a transaction to occur which would result in an unapproved debit balance on your account.
+If we do allow such a transaction to occur:
+> you must repay the overdrawn amount immediately, or in compliance with terms agreed by Hume Bank;
+> we have not agreed to provide you with credit;
+> we may debit any relevant fee; and
+> we may charge interest on the amount overdrawn at the rate and intervals shown in our separate interest 
+rate sheet.
+Further actions we may take:
+> we may freeze or restrict access to the overdrawn account, or any other account held with Hume Bank, to 
+provision for funds that are currently overdrawn;
+> we may manually adjust your accounts, and move available funds from another account into the overdrawn 
+account. 
+> we may close an account that remains overdrawn with no arrangement to correct an overdrawn balance. 
+> we will notify you of any action we take, or plan to take, to remediate an unauthorised overdrawn balance, but 
+there may be circumstances where we are not able to (such as your contact details not being up to date). 
+Passbooks
+If you have a passbook account:
+> as your passbook is a record of transactions on your account, you must regularly present it at any Hume Bank 
+branch for updating. Alternatively, you can obtain confirmation of transactions using iBank, Hume Bank’s App if 
+these facilities are linked to your account;
+> you must present your passbook each time you wish to deposit funds or make a withdrawal. If you do not, we 
+may not be able to process your request;
+> if your passbook is lost, stolen or destroyed, you must notify us immediately.
+> do not keep a visible record of your signature with your passbook;
+> if an unauthorised electronic transaction is made on your account, without your knowledge or consent, liability 
+for that transaction will be determined in accordance with the Electronic Transactions section of this PDS. 
+Otherwise, we are not liable for any amount withdrawn from your account until you tell us that your passbook 
+has been stolen, mislaid or lost.
+Power of Attorney
+If you appoint someone an attorney on your behalf, you authorise us to give them access to your account details 
+and to permit them to become an authorised user on your account on presentation of an original or certified copy
+
+29 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+of a valid and current power of attorney.
+The attorney must become a customer of Hume Bank and be satisfactorily identified before being allowed access 
+to your account(s).
+Please see the section on “authorised users” above for more details.
+If you revoke the power of attorney, you must notify us immediately so that we may cancel that person’s access as 
+an attorney to your account. We may require you to confirm your instruction in writing. 
+Privacy
+Our privacy policy sets out our commitment to the protection of your personal information. A copy of our privacy 
+policy can be obtained:
+> from any branch;
+> by calling 1300 004 863; or
+> from our website: www.humebank.com.au
+Regular Payments from your Debit Card
+A Regular Payment is one where you authorise a merchant (such as a retailer or insurer) to debit your account 
+using your Visa Debit Card at regular intervals.
+You should keep a record of any Regular Payment arrangements you enter into with a merchant or supplier and 
+any correspondence you have with the merchant or supplier (including any requests you have made to alter or 
+cancel a payment arrangement). A template for recording these details is available on our website. 
+To change or cancel any Regular Payment arrangement you should contact the merchant or supplier at least 15 
+days prior to the next scheduled payment. Until you cancel the Regular Payment arrangement, we must process 
+the merchant or supplier’s request to debit your account. Should the merchant or supplier fail to act in accordance 
+with these instructions you may have rights to dispute any incorrectly charged payments.
+Any dispute, including the failure of the merchant or supplier to act on a change in details, should be taken up with 
+the merchant or supplier in the first instance.
+Should your card number be changed i.e. as a result of a lost or stolen card you must also request the merchant 
+or supplier to change the details of your existing Regular Payment arrangement to ensure arrangements continue. 
+If you fail to undertake this activity your Regular Payment Arrangement either may not be honoured by us or the 
+merchant or supplier may stop providing the goods and/or services.
+If you or we close your card account or your account details change it is your responsibility to contact the merchant 
+or supplier to alter your Regular Payment arrangement as the merchant or supplier may stop providing the goods 
+and/or services if payments are no longer received because the account is closed or they have incorrect details.
+Statements
+We will send you a statement for your account at the frequency set out in the specific account terms and conditions 
+for the account. You may request statements more often if required, but a fee may be charged.
+Electronic statements (eStatements)
+iSave, Business iSave, liteBlue accounts, and Term Deposits opened via online banking require registration for 
+eStatements.
+Once you have made the election, you will no longer receive paper based statements for that account by post. You 
+may opt out of receiving eStatements on any account other than iSave, Business iSave, liteBlue accounts and Term 
+Deposits opened via online banking and revert to receiving paper based statements by post at any time.
+
+30 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Notices of variable loan rate repayment decreases are included on your account statement. If you opt to receive 
+eStatements for your variable loan account, you agree that you will also be receiving notice of your repayment 
+reductions electronically. Please note that you will continue to receive a separate notification where there is an 
+increase to your variable loan interest rate or repayment.
+Where the account is in joint names, or there are authorised users on the account, at least one account holder 
+must receive statements for each account.
+How to opt in to receiving electronic statements
+Unless you are a business customer, you may request electronic statements using the “statement preferences” link 
+on iBank. Before doing this, you must enter a valid email address. You may change that email address at any time.
+Once you have provided a valid email address, you may then click on the account for which you to opt in to receiving 
+eStatements. Not all accounts are eligible to receive eStatements, and we reserve the right to alter which accounts 
+can receive eStatements. We will give you notice before we do this.
+Business customers must complete a statement nomination form in order to opt in to receiving eStatements. 
+This form is available from any Hume Bank branch and must be handed in to a branch for processing. Individual 
+customers may also use a statement nomination form if they wish.
+You cannot activate or change your options for receiving statements via Hume Bank’s App.
+How electronic statements are delivered 
+When a statement for an account is ready, you will be sent an email advising you that your eStatement is available 
+through iBank. It is then your responsibility to log on to iBank and retrieve your statement.
+eStatements can be accessed via iBank at any time while that account is still active for up to 7 years.
+If our notification email to you is returned, or you no longer have a nominated email address on your customer 
+profile, we will mail a paper based statement to you and your election for eStatements will be suspended. You can 
+opt back into recieving eStatements at anytime once an updated email address is provided. This can be done via 
+iBank, visiting a branch, or calling 1300 004 863. Where an updated email address is not provided within 3 months 
+and the account is an iSave or Business iSave, we reserve the right to convert the account to another account 
+type.
+eStatements on joint accounts
+Joint account holders may separately request eStatements or paper statements.
+Your obligations if you elect to receive eStatements
+You must:
+> keep your nominated email address current and active
+> check your emails regularly
+> ensure that your filters allow you to receive emails from estat@humebank.com.au
+> take reasonable and appropriate security measures in relation to your computer.
+> ensure that you have enough space in the inbox of your nominated email address to accept the Hume Bank 
+notification.
+How to opt out of eStatements
+You may at any time request paper-based statements instead of electronic statements, except for an iSave, 
+Business iSave, liteBlue account, or Term Deposits opened via online banking. You can do this through the “statement 
+preferences” link on iBank, by visiting a branch or calling 1300 004 863
+
+31 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Sweep Facility
+Where you have access to more than one savings or transaction account held with us, you may ask us to put in 
+place a sweep facility on one or more of those accounts.
+The sweep facility will automatically transfer funds from the nominated account(s) to meet any debit request 
+to your account initiated by a cheque, periodical payment or direct debit which cannot otherwise be met due to 
+insufficient funds in that account.
+Up to a maximum of three “from” accounts can be nominated.
+This facility is not available for use with ATM or EFTPOS transaction debit requests.
+If there is a change to the signatory/signatories on a “from” account, it is the responsibility of the account holder 
+to ensure that any sweep authorisation is altered accordingly.
+The Sweep facility is not available from the following accounts:
+> Clancy Koala
+> Farm Management Deposit
+> Term Deposits
+> Business iSave
+Australian Tax File Number (TFN) and Foreign Tax Residency
+It is not compulsory to provide an Australian tax file number (TFN) or exemption in respect of your account. If you 
+have not quoted a TFN or a TFN exemption in respect of your account, or are a non-resident, we may be required 
+by law to deduct tax from interest earned on your account.
+If you are not an Australian resident for tax purposes, you will be required to provide us with details about your 
+residency status. Your tax residency usually relates to the country or countries in which you have to lodge a tax 
+return. This information is requested in order for Hume Bank to comply with taxation laws including the OECD 
+Common Reporting Standard for Automatic Exchange of Financial Account Information and the US Foreign Account 
+Tax Compliance Act. Failure or refusal to provide the information requested may result in Hume Bank refusing your 
+application to open or act on an account held with Hume Bank.
+Third Party Withdrawals
+You agree that we can allow someone who is not an authorised signatory on your account to withdraw cash from 
+or otherwise transact on the account provided they present a signed, written request from you stating: “I authorise 
+[name of third party] to [describe transaction].” After identifying the third party, we will process the request.
+Unacceptable Conduct
+You must not use our products and services to engage in unacceptable conduct. 
+We want to create a safe and enjoyable banking environment for all our customers and staff. We work to prevent 
+our products and services from being used unlawfully, or for financially abusive conduct. Financial abuse can involve 
+removing a person’s access to money, changing financial decisions, or using someone’s money without their consent.
+You must not use any of our products or services identified in this PDS to engage in unacceptable conduct.
+Unacceptable conduct includes conduct that is:
+> unlawful;
+> in our opinion, bullying, harassing, abusive or threatening;
+> making threatening, obscene, discriminatory, abusive or defamatory comments (including in the use of payment
+
+32 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+descriptions and/or references);
+> financial abuse;
+> elder abuse; or
+> conduct that may result in physical or mental harm to another person.
+If we reasonably suspect, or we are made aware, that you are using any of our products or services identified in 
+this PDS to engage in unacceptable conduct, we may use our rights under these terms and conditions to:
+> suspend your account(s) or provision of services to you.
+> limit or remove access to your accounts or services provided.
+> close your account and cancel any cards or services provided by us to you.
+We will not be liable to you, or another person, on any basis for a decision made by us in good faith to suspend, limit 
+or close an account or cancel access facilities, except to the extent that the loss is caused by our fraud, negligence 
+or wilful misconduct (including that of our employees or agents)
+If you experience unacceptable conduct, please contact Hume Bank on 1300 004 863. We will keep any matter we 
+discuss with you as confidential, and we may be able to assist you in making changes to your account access or 
+assist you in establishing a new account.
+Withdrawal and Transfer Limits
+Provided sufficient cleared funds are available, you may withdraw or transfer funds within the following limits:
+Method Daily limit to each account Comment
+Cash withdrawal at 
+an ATM and cash out 
+as part of a card 
+purchase
+$2,000 Subject to individual ATM withdrawal limits, you 
+may withdraw up to $2,000 per day using your 
+card. 
+Branch $10,000 cash Cash withdrawals exceeding $ 5,000 may 
+require advance notice. Please contact 
+your local branch to enquire on large cash 
+withdrawals.
+iBank/Hume Bank’s 
+App
+$2,000 external transfers 
+(without SMS authentication)
+SMS Authentication must be used for 
+transactions when prompted, regardless of the 
+transfer amount. 
+You will be notified of any changes to withdrawal and transfer limits in accordance with this PDS.
+
+33 of 33
+3PDS1-08052025
+Hume Bank Limited ABN 85 051 868 556 AFSL & Australian Credit Licence No. 244248
+Customer Complaints, feedback and compliments 
+You can provide complaints, feedback or compliments by:
+1. Speaking to an y of our branch staff.
+2. Calling 1300 004 863.
+3. Comple ting the Customer Complaints form or Compliments & Feedback form located on our website
+www.humebank.com.au
+4. Sending a le tter or any other correspondence to any Hume Bank branch.
+5. Con tacting us via social media.
+Where you are not satisfied with the outcome of your complaint, you may be able to pursue the matter further by 
+referring it free of charge to the Australian Financial Complaints Authority, by any of the following methods:
+Telephone: 1800 931 678 (free call within Australia)
+Mail: A ustralian Financial Complaints Authority
+GPO Bo x 3
+Melbourne VIC 3001
+Website: www.afca.org.au
+Email: info@afca.org.au
+We are committed to responding to complaints in a way that is:
+> pr ompt and efficient;
+> consis tent with the law, applicable industry codes and good industry practice; and
+> f air to everyone involved.
+
+After Hours Emergency Numbers
+Lost or stolen card or PIN
+1800 808 550
+Branch Locations
+Albury
+Head Office 
+492 Olive Street, 
+Albury NSW 2640
+Myer Centrepoint 
+Shop 13A, David & Swift Streets, 
+Albury NSW 2640
+Lavington 
+Shop 1/346 Griffith Road, 
+Lavington NSW 2641
+Thurgoona Plaza 
+Shop 11/10 Shuter Avenue, 
+Thurgoona NSW 2640
+Wodonga
+Wodonga Place 
+Shop 7-8, 107-117 High Street & Elgin Boulevard, 
+Wodonga VIC 3690
+Whitebox Rise 
+Shop 12, Victoria Cross Parade 
+& Kelliher Avenue, 
+Wodonga VIC 3690
+Wangaratta
+76 Reid Street, 
+Wangaratta VIC 3677
+Wagga Wagga
+Baylis Street 
+115 Baylis Street, 
+Wagga Wagga NSW 2650
+Regional
+Corowa 
+79 Sanger Street, 
+Corowa NSW 2646
+Culcairn 
+Shop 2, 50 Balfour Street, 
+Culcairn NSW 2660
+Yackandandah 
+35 High Street, 
+Yackandandah VIC 3749 
+Holbrook 
+39 Young Street, 
+Holbrook NSW 2644
+Howlong 
+45 Hawkins Street, 
+Howlong NSW 2643
+Jindera 
+Cnr Urana Road & Creek Street, 
+Jindera NSW 2642
+Rutherglen 
+128-130 Main Street, 
+Rutherglen VIC 3685
+General Enquiries
+1300 004 863
+E: hume@humebank.com.au
+W: www.humebank.com.au
+Hume Bank Limited
+ABN 85 051 868 556
+AFSL No. 244248
